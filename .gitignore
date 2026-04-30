@@ -1,0 +1,337 @@
+# ============================================
+# PYTHON
+# ============================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pdm
+.pdm.toml
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# ============================================
+# LARGE DATA FILES - DO NOT UPLOAD TO GITHUB
+# ============================================
+# Pickle files
+*.pkl
+*.pickle
+
+# Numpy arrays
+*.npy
+*.npz
+
+# PyTorch models
+*.pt
+*.pth
+
+# TensorFlow models
+*.h5
+*.hdf5
+*.pb
+
+# Scikit-learn models
+*.joblib
+
+# Large CSV/JSON (if any)
+# Uncomment if you have large data files
+# *.csv
+# *.json
+
+# Compressed archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ============================================
+# JUPYTER NOTEBOOK
+# ============================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Jupyter Notebook metadata
+*.ipynb_meta
+
+# ============================================
+# OPERATING SYSTEM
+# ============================================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ============================================
+# IDE / EDITORS
+# ============================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+*~
+tags
+[._]*.un~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ============================================
+# GOOGLE COLAB
+# ============================================
+# Colab specific
+.config/
+
+# Google Drive mount
+drive/
+
+# ============================================
+# PROJECT SPECIFIC
+# ============================================
+# Large output folders (if you want to exclude)
+# outputs/
+# Uncomment above if outputs folder is too large
+
+# Specific large files
+streamlit_app/outputs/phase1/processed_data.pkl
+streamlit_app/outputs/phase2/clip_embeddings.npy
+streamlit_app/outputs/phase2/clip_embeddings_dict.pkl
+streamlit_app/outputs/phase3/hetero_graph.pt
+streamlit_app/outputs/phase3/id_mappings.pkl
+streamlit_app/outputs/phase4/user_embeddings.npy
+streamlit_app/outputs/phase4/item_embeddings.npy
+streamlit_app/outputs/phase4/best_model.pt
+streamlit_app/outputs/phase5/coldstart_embeddings.pkl
+
+# Keep only images and small files
+# streamlit_app/outputs/**/*.pkl
+# streamlit_app/outputs/**/*.npy
+# streamlit_app/outputs/**/*.pt
+
+# ============================================
+# LOGS AND DATABASES
+# ============================================
+*.log
+*.sql
+*.sqlite
+
+# ============================================
+# STREAMLIT
+# ============================================
+# Streamlit cache
+.streamlit/
+
+# ============================================
+# MISC
+# ============================================
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Node modules (if any JavaScript)
+node_modules/
+
+# R (if any R scripts)
+.Rhistory
+.RData
+.Rproj.user

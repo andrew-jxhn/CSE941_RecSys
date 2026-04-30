@@ -1,0 +1,44 @@
+[
+  {
+    "user_id": "AFSKPY37N3C43SOI5IEXEK5JSIYA",
+    "item_id": "B0896W1MBX",
+    "title": "Revive Science Eyelash Growth Serum",
+    "is_coldstart": false,
+    "explanation": "Recommended based on your preferences and similar user behaviors. (Error: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}})"
+  },
+  {
+    "user_id": "AFSKPY37N3C43SOI5IEXEK5JSIYA",
+    "item_id": "B088GWCVVJ",
+    "title": "Easydew Daily Double Hydra Cream 2.02 fl oz - Moisturizing Cream with EGF & Serine of NMFHydrating, Soothing, Anti-Aging EGF, Serine - N.M.F(Natural Moisturizing Factors) for Oily, Sensitive, Acne-Prone, Dry Skin Types",
+    "is_coldstart": false,
+    "explanation": "Recommended based on your preferences and similar user behaviors. (Error: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}})"
+  },
+  {
+    "user_id": "AHGAOIZVODNHYMNCBV4DECZH42UQ",
+    "item_id": "B088GWCVVJ",
+    "title": "Easydew Daily Double Hydra Cream 2.02 fl oz - Moisturizing Cream with EGF & Serine of NMFHydrating, Soothing, Anti-Aging EGF, Serine - N.M.F(Natural Moisturizing Factors) for Oily, Sensitive, Acne-Prone, Dry Skin Types",
+    "is_coldstart": false,
+    "explanation": "Recommended based on your preferences and similar user behaviors. (Error: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}})"
+  },
+  {
+    "user_id": "AHGAOIZVODNHYMNCBV4DECZH42UQ",
+    "item_id": "B087X4B475",
+    "title": "Natural New Hair growth Pills By Seanergix, Prevention Treatment Helps Restore Strength, Volume, and Thickness. Developed to Reduce Hair Loss and to Stimulate Regrowth of New Hair for Men and women",
+    "is_coldstart": false,
+    "explanation": "Recommended based on your preferences and similar user behaviors. (Error: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}})"
+  },
+  {
+    "user_id": "AFZUK3MTBIBEDQOPAK3OATUOUKLA",
+    "item_id": "B07V9V5R48",
+    "title": "Liquid Foundation Cream, Concealer Cover Cream, BB Cream, Flawless Colour Changing Foundation Makeup Base Nude Face Liquid Cover Concealer, Universal for ALL Skin Types, SPF 15 Shell, 1.41 Fl Oz",
+    "is_coldstart": false,
+    "explanation": "Recommended based on your preferences and similar user behaviors. (Error: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}})"
+  },
+  {
+    "user_id": "AFZUK3MTBIBEDQOPAK3OATUOUKLA",
+    "item_id": "B07YS9W97B",
+    "title": "EASYDEW Starter Moist Whip Foam 5.07 fl oz - Non-Drying, Gentle & Purifying Foaming Cleanser with Ceramide I Exfoliating Daily Face Wash that Removes Dirts and Makeup",
+    "is_coldstart": false,
+    "explanation": "Recommended based on your preferences and similar user behaviors. (Error: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}})"
+  }
+]

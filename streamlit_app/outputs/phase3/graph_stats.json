@@ -1,0 +1,16 @@
+{
+  "nodes": {
+    "users": 10000,
+    "items": 20223,
+    "total": 30223
+  },
+  "edges": {
+    "user_item": 41109,
+    "item_item": 1010430,
+    "total": 2061969
+  },
+  "metrics": {
+    "density": 0.002257466734386432,
+    "avg_degree": 68.22515964662674
+  }
+}

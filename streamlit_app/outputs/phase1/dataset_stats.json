@@ -1,0 +1,12 @@
+{
+  "Dataset": "Amazon Beauty",
+  "Total Users": "631,986",
+  "Total Items": "112,565",
+  "Total Reviews": "701,528",
+  "Sparsity": "100.00%",
+  "Cold-start Items (\u22645 reviews)": "89,699 (79.7%)",
+  "Items with Images": "112,590 (100.0%)",
+  "Date Range": "2000-11-01 to 2023-09-09",
+  "Avg Reviews per User": "1.11",
+  "Avg Reviews per Item": "6.23"
+}
